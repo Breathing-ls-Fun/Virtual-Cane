@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{2F70DB29-621A-A185-9A29-5FBC0B372109}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ARTapToPlaceObject.cs">
+    <Files>
+      <File FileName="Assets/Scripts/sphereButton.cs" Line="93" Column="6" IsPinned="True" />
+      <File FileName="Assets/Scripts/swirp.cs" />
+      <File FileName="Assets/Scripts/buttonScript.cs" />
+      <File FileName="Assets/Scripts/voiceGuide.cs" />
+      <File FileName="Assets/Scripts/TutorialWarnings.cs" />
+      <File FileName="Assets/Scripts/doubleTap.cs" />
+      <File FileName="Assets/Scripts/introdoubletap.cs" />
+      <File FileName="Assets/Test/swipe.cs" />
+      <File FileName="Assets/Test/DoubleTap.cs" />
+      <File FileName="Assets/Test/AccessibleMenu.cs" />
+      <File FileName="Assets/Scripts/playSound.cs" />
+      <File FileName="Assets/Scripts/Tutorial_pt2.cs" />
+      <File FileName="Assets/Scripts/tutorialhitting.cs" />
+      <File FileName="Assets/Scripts/outOfMap.cs" />
+      <File FileName="Assets/Scripts/MainMenu.cs" />
+      <File FileName="Assets/Scripts/mouseHold.cs" />
+      <File FileName="Assets/Scripts/BackToMainMenu.cs" />
+      <File FileName="Assets/Scripts/orientation.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/ARTapToPlaceObject.cs" Line="74" Column="1" />
+      <File FileName="Assets/Scripts/ARTapToPlaceObject.cs" Line="74" Column="1" />
+      <File FileName="Assets/Scripts/ARTapToPlaceObject.cs" Line="74" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Experiment" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ARTapToPlaceObject.cs" selected="True" />
+              </Node>
+              <Node name="Test" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5a4064b6-3001-445d-8e24-76081abceaf2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
